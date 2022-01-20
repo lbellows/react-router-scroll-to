@@ -1,0 +1,19 @@
+{
+  "name": "react-router-scroll-to",
+  "version": "0.1.0",
+  "description": "Scroll to an element or the top of the page when a route changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbellows/react-router-scroll-to.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbellows/react-router-scroll-to/issues"
+  },
+  "homepage": "https://github.com/lbellows/react-router-scroll-to#readme"
+}
